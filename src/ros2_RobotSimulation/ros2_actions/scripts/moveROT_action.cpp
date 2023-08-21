@@ -40,7 +40,7 @@
 #include "rclcpp/rclcpp.hpp"
 #include "rclcpp_action/rclcpp_action.hpp"
 
-#include </home/dtu1990/ros2_ws/src/ros2_RobotSimulation/include/move_group_interface_improved.h>
+#include </home/user/ros2_ws/src/ros2_RobotSimulation/include/move_group_interface_improved.h>
 #include <moveit/planning_scene_interface/planning_scene_interface.h>
 
 #include "ros2_data/action/move_rot.hpp"
